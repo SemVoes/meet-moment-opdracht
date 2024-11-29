@@ -1,0 +1,39 @@
+
+main{
+    background-image: url(https://i.postimg.cc/fTJqwrQj/background-1.jpg);    
+}
+.titel-main{
+ font-size: 50px;
+}
+.text-main{
+    font-family: "Open Sans", sans-serif;
+}
+
+.text-mid{ 
+    max-width: 15%;
+    
+}
+
+.text1{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.container{
+    width: 80%; 
+    margin:  0 auto;
+}
+
+.text0{
+    padding-top: 70px;
+    
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.text3{
+    padding-bottom: 50px;
+}
